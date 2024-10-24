@@ -113,6 +113,7 @@ abstract class Language {
                 "ca" to Catalan(),
                 "de_DE" to GermanDe(),
                 "de_DE_no_diacritics" to GermanDeNoDiacritics(),
+				"en_IPA" to EnglishIPA(),
                 "en_GB" to EnglishGB(),
                 "en_US" to EnglishUS(),
                 "es" to Spanish(),
