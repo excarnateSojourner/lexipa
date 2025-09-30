@@ -45,12 +45,7 @@
     <string name="pref_definitionProvider_dialog">Odaberi pružatelja definicija</string>
     <string name="found_words">Pronađene riječi</string>
     <string name="pref_definitionProvider">Pružatelj definicija</string>
-    <string name="dialog_about_content">Dodirni ekran i pomakni prst na susjedne kvadrate za slovkanje riječi. Imaš tri minute pronaći što je moguće više riječi.
-\n
-\nBodovanje:
-\nNa 4 × 4 pločama riječi moraju sadržati barem tri slova. Na 5 × 5 pločama riječi moraju sadržati barem četiri slova. Riječi koje imaju tri ili četiri slova vrijede jedan bod. Duže riječi vrijede više bodova. Vlastite imenice se ne računaju.
-\n
-\n</string>
+    <string name="dialog_about_content">Dodirni ekran i pomakni prst na susjedne kvadrate za slovkanje riječi. Imaš tri minute pronaći što je moguće više riječi. \n \nBodovanje: \nNa 4 × 4 pločama riječi moraju sadržati barem tri slova. Na 5 × 5 pločama riječi moraju sadržati barem četiri slova. Riječi koje imaju tri ili četiri slova vrijede jedan bod. Duže riječi vrijede više bodova. Vlastite imenice se ne računaju.</string>
     <string name="pref_scoreType">Vrsta bodovanja</string>
     <string name="menu_rotate_board">Okreni ploču</string>
     <string name="pref_dict_de_DE">Njemački (prošireno)</string>
